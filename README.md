@@ -1162,3 +1162,13 @@
   <strong>如果觉得有帮助，欢迎点 Star ⭐ 并分享！</strong>
   <sub>2026 年 4 月 · 600+ 个资源 · 由社区用爱打造</sub>
 </div>
+
+---
+
+## 📬 联系作者
+
+<div align="center">
+  <img src="assets/contact-qr.png" alt="作者微信二维码" width="200">
+  <br>
+  <sub>扫码加作者微信，交流 AI 智能体相关话题</sub>
+</div>
